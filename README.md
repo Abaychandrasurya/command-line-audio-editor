@@ -28,9 +28,7 @@ A command-line audio editor for quickly manipulating audio files.  `audio-cli` p
 
 3. **Clone the repository (or download the source code):**
     ```bash
-    git clone [https://github.com/your-username/audio-cli.git](https://www.google.com/search?q=https://github.com/your-username/audio-cli.git)  # Replace with your repository URL
-    cd audio-cli
-    ```
+    git clone [https://github.com/Abaychandrasurya/command-line-audio-editor.git](https://www.google.com/search?q=https://github.com/Abaychandrasurya/command-line-audio-editor.git) 
 
 ## Usage
 
