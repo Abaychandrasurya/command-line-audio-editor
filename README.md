@@ -1,6 +1,6 @@
 # command-line-audio-editor
 
-A command-line audio editor for quickly manipulating audio files.  `audio-cli` provides essential audio processing functionalities for scripting, automation, and quick edits.
+A command-line audio editor for quickly manipulating audio files.  `command-line-audio-editor` provides essential audio processing functionalities for scripting, automation, and quick edits.
 
 ## Features
 
